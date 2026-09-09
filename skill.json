@@ -1,0 +1,13 @@
+{
+  "name": "genpark-ear-clipping-polygon-triangulation-skill",
+  "version": "1.0.0",
+  "description": "Optimal ear clipping triangulation algorithm converting arbitrary simple non-convex 2D polygons with holes into valid triangular meshes in O(n^2).",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ear-clipping",
+    "polygon-triangulation",
+    "mesh-generation",
+    "computational-geometry"
+  ]
+}
